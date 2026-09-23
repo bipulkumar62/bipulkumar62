@@ -70,11 +70,10 @@ Computer Science undergraduate passionate about AI Engineering, Flutter, Backend
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bipulkumar62&bg_color=00000000&color=8957e5&line=8957e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
+<!-- Snake Game Repo View -->
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/bipulkumar62">bipulkumar62</a></i></p>
